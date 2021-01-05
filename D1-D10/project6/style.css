@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #efedd6;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+h1 {
+    margin: 10px;
+}
+
+.box {
+    background-color: steelblue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.3);
+    transform: translateX(400%);
+    transition: transform 0.4s ease;
+}
+
+.box:nth-of-type(even) {
+    transform: translateX(-400%);
+}
+
+.box.show {
+    transform: translateX(0);
+}
+
+.box h2 {
+    font-size: 45px;
+}
+
+.box:nth-child(1) { background: red; }
+.box:nth-child(2) { background: orange; }
+.box:nth-child(3) { background: yellow; }
+.box:nth-child(4) { background: yellowgreen; }
+.box:nth-child(5) { background: lightblue; }
+.box:nth-child(6) { background: darkblue; }
+.box:nth-child(7) { background: purple; }
+.box:nth-child(8) { background: violet; }
+.box:nth-child(9) { background: red; }
+.box:nth-child(10) { background: orange; }
+.box:nth-child(11) { background: yellow; }
+.box:nth-child(12) { background: yellowgreen; }
+.box:nth-child(13) { background: lightblue; }
+.box:nth-child(14) { background: darkblue; }
+.box:nth-child(15) { background: purple; }
+.box:nth-child(16) { background: violet; }
+.box:nth-child(17) { background: red; }
+.box:nth-child(18) { background: orange; }
+.box:nth-child(19) { background: yellow; }
+.box:nth-child(20) { background: yellowgreen; }
+.box:nth-child(21) { background: lightblue; }
+.box:nth-child(22) { background: darkblue; }
+.box:nth-child(23) { background: purple; }
+.box:nth-child(24) { background: violet; }
