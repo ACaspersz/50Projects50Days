@@ -78,6 +78,8 @@ Movie App
 
 Background Slider
 
+![Background Slider](screenshots/project18.png)
+
 Theme Clock
 
 Button Ripple Effect
