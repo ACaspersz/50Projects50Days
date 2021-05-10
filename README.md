@@ -98,6 +98,8 @@ Drawing App
 
 Kinetic Loader
 
+![Kinetic Loader](screenshots/project23.png)
+
 Content Placeholder
 
 Sticky Navbar
