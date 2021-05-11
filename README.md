@@ -102,6 +102,8 @@ Kinetic Loader
 
 Content Placeholder
 
+![content placeholder](screenshots/project24.png)
+
 Sticky Navbar
 
 Double Vertical Slider
