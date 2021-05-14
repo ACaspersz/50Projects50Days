@@ -106,6 +106,8 @@ Content Placeholder
 
 Sticky Navbar
 
+![Sticky Navbar](screenshots/project25.png)
+
 Double Vertical Slider
 
 Toast Notification
