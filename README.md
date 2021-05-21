@@ -110,6 +110,8 @@ Sticky Navbar
 
 Double Vertical Slider
 
+![Vertical Slider](screenshots/project26.png)
+
 Toast Notification
 
 Github Profiles
