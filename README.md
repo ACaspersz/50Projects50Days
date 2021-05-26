@@ -118,6 +118,8 @@ Toast Notification
 
 Github Profiles
 
+![Github Profiles](screenshots/project28.png)
+
 Double Click Heart
 
 Auto Text Effect
