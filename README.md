@@ -126,6 +126,8 @@ Double Click Heart
 
 Auto Text Effect
 
+![Auto Text Effect](screenshots/project30.png)
+
 Password Generator
 
 Good Cheap Fast
